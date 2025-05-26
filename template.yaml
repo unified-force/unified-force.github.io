@@ -18,9 +18,9 @@ title_meta: 'UniFP: Learning Unified Force and Position Control for Legged Loco-
 
 journal: ''
 resources:
-  paper: https://peryion.github.io/unified-force/
-  arxiv: https://peryion.github.io/unified-force/
-  code: https://peryion.github.io/unified-force/
+  paper: https://unified-force.github.io/
+  arxiv: https://unified-force.github.io/
+  code: https://unified-force.github.io/
   # video: https://www.youtube.com/embed/onbnb_D1wC8?si=xJczUv716Lt5aO4l&amp;start=1150
   demo: # https://colab.research.google.com/
 description: A unified policy for legged robots that jointly models force and position control learned without reliance on force sensors.
@@ -36,11 +36,11 @@ authors:
   - name: Peiyang Li
     affiliation: [1, 2]
     position: Research Intern
-    url: https://peryion.github.io/unified-force/
+    url: https://unified-force.github.io/
   - name: Jianqin Yin
     affiliation: [2]
     position: Researcher
-    url: https://peryion.github.io/unified-force/
+    url: https://unified-force.github.io/
   - name: Baoxiong Jia
     affiliation: [1]
     position: Researcher
