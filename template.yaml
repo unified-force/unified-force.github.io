@@ -25,8 +25,8 @@ resources:
   demo: # https://colab.research.google.com/
 description: A unified policy for legged robots that jointly models force and position control learned without reliance on force sensors.
 
-image: https://github.com/peryion/unified-force/blob/project-page/public/favicon_io/android-chrome-512x512.png
-url: https://github.com/peryion/unified-force
+image: https://github.com/unified-force/unified-force.github.io/blob/project-page/public/favicon_io/android-chrome-512x512.png
+url: https://github.com/unified-force/unified-force.github.io
 speakerdeck: # speakerdeck slide ID
 authors:
   - name: Peiyuan Zhi
