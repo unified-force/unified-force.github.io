@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - project-page
-      - main
 permissions:
   contents: read
   pages: write
@@ -23,7 +22,7 @@ jobs:
         run: npm ci
       - name: Build
         run: npm run build
-        continue-on-error: true
+        # continue-on-error: true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
