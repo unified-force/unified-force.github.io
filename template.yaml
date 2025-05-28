@@ -53,8 +53,7 @@ affiliations:
   - Beijing Institute for General Artificial Intelligence (BIGAI)
   - Joint Laboratory of Embodied AI and Humanoid Robots, BIGAI & UniTree Robotics
   - Beijing University of Posts and Telecommunications
-# meta:
-#   - '*work done while she was interning at Pixel Genius Lab.'
+  
 bibtex: >
   @misc{zhi2025learningunifiedforceposition,
       title={Learning Unified Force and Position Control for Legged Loco-Manipulation}, 
