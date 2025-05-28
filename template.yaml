@@ -30,35 +30,40 @@ url: https://github.com/unified-force/unified-force.github.io
 speakerdeck: # speakerdeck slide ID
 authors:
   - name: Peiyuan Zhi
-    affiliation: [1]
+    affiliation: [1,2,'*']
     url: https://scholar.google.com/citations?user=p1JGJNwAAAAJ&hl=en
     position: Researcher
   - name: Peiyang Li
-    affiliation: [1, 2]
+    affiliation: [1,3,'*']
     position: Research Intern
     url: https://unified-force.github.io/
   - name: Jianqin Yin
-    affiliation: [2]
+    affiliation: [3]
     position: Researcher
     url: https://unified-force.github.io/
   - name: Baoxiong Jia
-    affiliation: [1]
+    affiliation: [1,2,†]
     position: Researcher
     url: https://buzz-beater.github.io/
   - name: Siyuan Huang
-    affiliation: [1]
+    affiliation: [1,2,†]
     position: Researcher
     url: https://siyuanhuang.com/
 affiliations:
   - Beijing Institute for General Artificial Intelligence (BIGAI)
+  - Joint Laboratory of Embodied AI and Humanoid Robots, BIGAI & UniTree Robotics
+  - Beijing University of Posts and Telecommunications
 # meta:
 #   - '*work done while she was interning at Pixel Genius Lab.'
 bibtex: >
-  @inproceedings{li2025maniptrans,
-    title={UnifiedForce: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning},
-    author={Li, Kailin and Li, Puhao and Liu, Tengyu and Li, Yuyang and Huang, Siyuan},
-    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-    year={2025}
+  @misc{zhi2025learningunifiedforceposition,
+      title={Learning Unified Force and Position Control for Legged Loco-Manipulation}, 
+      author={Peiyuan Zhi and Peiyang Li and Jianqin Yin and Baoxiong Jia and Siyuan Huang},
+      year={2025},
+      eprint={2505.20829},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2505.20829}, 
   }
 
 teaser: Corl_PF_web_.mp4
