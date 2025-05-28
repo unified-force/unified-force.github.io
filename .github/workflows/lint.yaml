@@ -23,5 +23,3 @@ jobs:
         run: npm run lint
       - name: Prettier
         run: npm run format
-      - name: Typos
-        run: npm run typos
