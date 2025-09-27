@@ -18,11 +18,11 @@ title_meta: 'UniFP: Learning Unified Force and Position Control for Legged Loco-
 
 journal: ''
 resources:
-  paper: https://unified-force.github.io/
-  arxiv: https://unified-force.github.io/
+  paper: https://arxiv.org/abs/2505.20829
+  arxiv: https://arxiv.org/abs/2505.20829
   code: https://unified-force.github.io/
   # video: https://www.youtube.com/embed/onbnb_D1wC8?si=xJczUv716Lt5aO4l&amp;start=1150
-  demo: # https://colab.research.google.com/
+  # demo: # https://colab.research.google.com/
 description: A unified policy for legged robots that jointly models force and position control learned without reliance on force sensors.
 
 image: https://github.com/unified-force/unified-force.github.io/blob/project-page/public/favicon_io/android-chrome-512x512.png
