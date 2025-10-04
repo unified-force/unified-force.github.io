@@ -10,11 +10,11 @@ title: |
       <span><span style="color: #2a6ecf;">Uni</span><span style="color: #f98b3d;">FP</span></span>
     </div>
     <div style="margin-top: 5px; font-size: 1.1em; color: #333;">
-      Learning Unified Force and Position Control for Legged Loco-Manipulation
+      Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation
     </div>
   </div>
 
-title_meta: 'UniFP: Learning Unified Force and Position Control for Legged Loco-Manipulation'
+title_meta: 'UniFP: Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation'
 
 journal: 'CoRL 2025 Best Paper Award'
 resources:
